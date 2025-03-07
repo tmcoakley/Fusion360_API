@@ -1,4 +1,4 @@
-# Fusion36 API Scripts
+# Fusion360 API Scripts
 
 ---
 
